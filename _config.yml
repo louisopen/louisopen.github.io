@@ -1,4 +1,4 @@
-title: Hello, world! I'm David Freeman
+title: 嗨嗨, 我是鳗鱼!
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -9,7 +9,7 @@ url: "https://louisopen.github.io" # the base hostname & protocol for your site,
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: David Freeman # add your name
+author: 鳗鱼 # add your name
 author-img: david-freeman.jpg # add your photo
 about-author: I am a web developer focusing on front-end development. Always hungry to keep learning. # add description
 social-twitter: # add your Twitter handle
