@@ -1,9 +1,9 @@
 title: 嗨嗨, 我是鳗鱼!
-description: > # this means to ignore newlines until "baseurl:"
+description: ~~~ # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
-permalink: ':title/'
+permalink: ':title/~'
 baseurl: "/louisopen.github.io" # the subpath of your site, e.g. /blog
 url: "https://louisopen.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
@@ -14,9 +14,9 @@ author-img: chick-freeman.jpg # add your photo
 about-author: I am a old developer focusing on ASM C C# RTOS RASPBRIAN development. # add description
 social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
-social-github: ===here=== # add your Github handle
+social-github: louisopen # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: louisopen@gmail.com # add your Email address
 
 # Disqus
 discus-identifier: mr-brown # add your discus identifier
