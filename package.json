@@ -4,7 +4,7 @@
   "description": "A starter project for Jekyll",
   "main": "index.js",
   "repository": "https://github.com/louisopen/louisopen.github.io",
-  "author": "Artem Sheludko",
+  "author": "===========",
   "license": "MIT",
   "dependencies": {
     "browser-sync": "^2.18.13",
