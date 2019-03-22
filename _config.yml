@@ -1,5 +1,5 @@
 title: 嗨嗨, 我是鳗鱼!
-description: ~~~ # this means to ignore newlines until "baseurl:"
+description: # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 鳗鱼 # add your name
 author-img: chick-freeman.jpg # add your photo
-about-author: I am a old developer focusing on ASM C C# RTOS RASPBRIAN development. # add description
+about-author: I am a old code framer focusing on Assembly C C# RTOS RaspBian UWP development. # add description
 social-twitter: louisopen # add your Twitter handle
 social-facebook: louisopen # add your Facebook handle
 social-github: louisopen # add your Github handle
