@@ -1,3 +1,1 @@
-Picture following 16:9 best
-test
-test2
+Picture following 16:9 best.
