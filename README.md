@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages [看中文](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
+## Welcome to GitHub Pages [[看中文]](https://gist.github.com/billy3321/1001749662c370887c63bb30f26c9e6e)
 
 You can use the [editor on GitHub](https://github.com/louisopen/louisopen/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
