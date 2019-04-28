@@ -12,9 +12,8 @@ tags: [Programming, Learn] # add tag
 >版本Arduino Nano
 >版本Arduino Uno
 >版本Arduino Meaga
----
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
----
+
 ### 複刻版硬件Arduino
 >主要芯片還是一樣但USB介面只有模擬及下載,另外附加的串口Serial port功能.
 
