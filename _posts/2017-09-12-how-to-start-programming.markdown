@@ -10,12 +10,17 @@ tags: [Programming, Learn] # add tag
 
 ### 原創硬件Arduino
 >版本Arduino Nano
+
 >版本Arduino Uno
+
 >版本Arduino Meaga
+
 ![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+
 
 ### 複刻版硬件Arduino
 >主要芯片還是一樣但USB介面只有模擬及下載,另外附加的串口Serial port功能.
+
 
 ### 專業芯片原創硬件Arduino
 >主要芯片以完全不一樣, 硬件介面不一, 軟件介面可以同時用Arduino IDE 與專業芯片廠家提供等數種不同開發IDE
