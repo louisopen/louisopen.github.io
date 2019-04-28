@@ -6,7 +6,11 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: bridge1025x726.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-硬件平台1: Arduino 市售平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 
+硬件平台1: Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 
+
+硬件平台2: Raspberry Pi 市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+
+
+硬件平台3: Jetson Nano 市售硬件平台正值芯發售,也是硬件發行的第一版.  
 
 ### 原創硬件Arduino
 >版本Arduino Nano
@@ -24,3 +28,6 @@ tags: [Programming, Learn] # add tag
 
 ### 專業芯片原創硬件Arduino
 >主要芯片以完全不一樣, 硬件介面不一, 軟件介面可以同時用Arduino IDE 與專業芯片廠家提供等數種不同開發IDE
+
+
+
