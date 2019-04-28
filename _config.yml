@@ -11,7 +11,7 @@ site-twitter: #if your site has a twitter account, enter it here
 # Author Settings
 author: 鳗鱼 # add your name
 author-img: chick-freeman.jpg # add your photo
-about-author: I am a old coding farmer focusing on Assembly,C-like,C,,RTOS,C#,UWP,Python of RaspBian program development. Now, I want to link all the code and code to clouds base on my MCU,Arduino,Raspberry Pi,Jetson nano.  # add description
+about-author: I am a old coding farmer focusing on Assembly,C-like,C,,RTOS,C#,UWP,Python of RaspBian program development. Now, I want to link all the code and code to clouds base on my 8bit/16bit/32bit MCU,Arduino,Raspberry Pi,Jetson nano...  # add description
 social-twitter: louisopen # add your Twitter handle
 social-facebook: louisopen # add your Facebook handle
 social-github: louisopen # add your Github handle
