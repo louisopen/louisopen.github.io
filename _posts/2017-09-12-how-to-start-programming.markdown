@@ -7,12 +7,16 @@ img: bridge1025x726.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 硬件平台1: Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
+官網: [Arduino](https://www.arduino.cc/)
 
 硬件平台2: Raspberry Pi 市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持.
+官網: [RaspberryPi](https://www.raspberrypi.com.tw/)
 
 硬件平台3: Jetson Nano 市售硬件平台正值芯發售,也是硬件發行的第一版,各個產業的終端應用場景看來已經在各家芯片方案廠商的努力下都已經備好了AIOT的硬件.
+官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
 
 ### 原創硬件Arduino
+官網: [Arduino](https://www.arduino.cc/)
 版本Arduino Nano
 >原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
 ![I and My friends]({{site.baseurl}}/assets/img/ArduinoNano.jpg)
@@ -44,6 +48,7 @@ tags: [Programming, Learn] # add tag
 >Will be continue other ...
 
 ### 樹梅派 Raspberry Pi 2
+官網: [RaspberryPi](https://www.raspberrypi.com.tw/)
 整合多種試驗後,主要的硬體版本分Raspberry Pi 2 A版(GPIO 20pin)與Raspberry Pi B版(GPIO 40pin)
 ![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi2A.jpg)
 ![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi2B.jpg)
@@ -60,4 +65,5 @@ tags: [Programming, Learn] # add tag
 
 ### Jetson nano module
 迎戰Raspberry Pi的殺手級終端產品應用,模組有AI圖像運算,各大知名方案公司都下海爭取各個終端產業之多樣性應用硬件
+官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
 ![I and My friends]({{site.baseurl}}/assets/img/JetsonNano_CM_module.jpg)
