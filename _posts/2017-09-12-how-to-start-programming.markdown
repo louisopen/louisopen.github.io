@@ -23,7 +23,7 @@ tags: [Programming, Learn] # add tag
 
 版本Arduino Nano
 >原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
-![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="80px" width="220px"}
+![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="80px" width="200px"}
 
 版本Arduino Uno
 >雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
@@ -69,7 +69,7 @@ tags: [Programming, Learn] # add tag
 最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,已經非常適合工業上的應用及生產
 因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
 >
-![RaspberryPi_CM]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg){:height="150px" width="250px"}
+![RaspberryPi_CM]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg){:height="150px" width="280px"}
 
 ### Jetson nano module
 官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
