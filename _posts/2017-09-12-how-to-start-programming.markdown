@@ -23,7 +23,7 @@ tags: [Programming, Learn] # add tag
 
 版本Arduino Nano
 >原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
-![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="80px" width="200px"}
+![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="40px" width="100px"}
 
 版本Arduino Uno
 >雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
@@ -66,14 +66,13 @@ tags: [Programming, Learn] # add tag
 ![RaspberryPi_Pi3B+]({{site.baseurl}}/assets/img/RaspberryPi3B+.jpg){:height="130px" width="200px"}
 
 ### 樹梅派 Raspberry Pi CM module
-最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,已經非常適合工業上的應用及生產
-因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
+最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,當然還是有保留外接SD card的型號,這樣的考慮應該足夠應付市場需求,更別說創客市場了,也非常適合工業上的應用及生產,因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
 >
-![RaspberryPi_CM]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg){:height="150px" width="280px"}
+![RaspberryPi_CM]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg){:height="150px" width="300px"}
 
 ### Jetson nano module
 官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
 
-迎戰Raspberry Pi的殺手級終端產品應用,模組有AI圖像運算,各大知名方案公司都下海爭取各個終端產業之多樣性應用硬件
+迎戰Raspberry Pi的殺手級終端產品應用,模組有AI圖像運算,各大知名方案公司都下海爭取各個終端產業之多樣性應用硬件,主要針對創客市場.
 >
 ![JetsonNano_CM]({{site.baseurl}}/assets/img/JetsonNano_CM_module.jpg){:height="130px" width="200px"}
