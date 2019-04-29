@@ -27,11 +27,11 @@ tags: [Programming, Learn] # add tag
 
 版本Arduino Uno
 >雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
-![ArduinoUno]({{site.baseurl}}/assets/img/ArduinoUno.jpg?imageView/2/w/619/q/90)
+![ArduinoUno]({{site.baseurl}}/assets/img/ArduinoUno.jpg){zoom: 50%}
 
 版本Arduino Mega
 >多列GPIO長方形尺寸,一般多為GPIO應用不足而選用,透過USB type-B與電腦對接
-!ArduinoMega-w200]({{site.baseurl}}/assets/img/ArduinoMega.jpg)
+![ArduinoMega-w200]({{site.baseurl}}/assets/img/ArduinoMega.jpg)
 
 
 ### 複刻版硬件Arduino
