@@ -23,7 +23,7 @@ tags: [Programming, Learn] # add tag
 
 版本Arduino Nano
 >原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
-![I and My friends]({{site.baseurl}}/assets/img/ArduinoNano.jpg)
+<img width = 30% height = 30% />![I and My friends]({{site.baseurl}}/assets/img/ArduinoNano.jpg)
 
 版本Arduino Uno
 >雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
