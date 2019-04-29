@@ -8,13 +8,16 @@ fig-caption: # Add figcaption (optional)
 tags: [Holidays, Hawaii]
 ---
 ### 一日終於登上了朝思暮想的行程-黃山
-![I and My friends]({{site.baseurl}}/assets/img/mac.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/HuangSan.jpg)
 
-### 一日終於登上了朝思暮想的行程-黃龍九寨溝
-![I and My friends]({{site.baseurl}}/assets/img/mac.jpg)
+### 一日終於登上了朝思暮想的行程-黃龍
+![I and My friends]({{site.baseurl}}/assets/img/HuangLong.jpg)
+
+### 一日終於登上了朝思暮想的行程-九寨溝
+![I and My friends]({{site.baseurl}}/assets/img/GuoXaiGo.jpg)
 
 ### 一日終於登上了朝思暮想的行程-張家界
-![I and My friends]({{site.baseurl}}/assets/img/mac.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/Chang.jpg)
 
 * Hexagon shoreditch beard
 * Intelligentsia narwhal austin
