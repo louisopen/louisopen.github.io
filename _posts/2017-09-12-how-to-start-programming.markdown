@@ -41,4 +41,19 @@ tags: [Programming, Learn] # add tag
 >Realtek RTL8711AM (含WiFi)
 ![I and My friends]({{site.baseurl}}/assets/img/ArduinoRTL8711AM.jpg)
 
+>Will be continue other ...
 
+### 樹梅派 Raspberry Pi 2
+整合多種試驗後,主要的硬體版本分Raspberry Pi 2 A版(GPIO 20pin)與Raspberry Pi B版(GPIO 40pin)
+![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi2A.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi2B.jpg)
+
+### 樹梅派 Raspberry Pi 3
+延續Raspberry Pi 2精神,效能再度提升兩個版次Pi 3及Pi 3Plus,要小心的是Pi 3與Pi 3Plus由很大的差異是芯片升級相容性高但周邊芯片更換由原先的只支持WiFi+BLE提升為WiFi+BT+BLE還有提升到可以自行加入POE的應用(網線帶電)
+![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi3B.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi3B+.jpg)
+
+### 樹梅派 Raspberry Pi CM module
+最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,已經非常適合工業上的應用及生產
+因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
+![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi CM module.jpg)
