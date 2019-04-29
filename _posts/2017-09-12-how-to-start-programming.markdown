@@ -41,13 +41,13 @@ tags: [Programming, Learn] # add tag
 ### 專業芯片原創硬件Arduino
 主要芯片以完全不一樣, 硬件介面不一, 軟件介面可以同時用Arduino IDE與專業芯片廠家提供等數種不同開發環境IDE, 使用原創之Arduino IDE幾乎是通過載入硬件連接介面驅動完成模擬
 >MediaTek MT7697 (含WiFi,BT)
-![I and My friends]({{site.baseurl}}/assets/img/ArduinoMT7697.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoMT7697.jpg){:height="100px" width="200px"}
 
 >Espressif ESP-WROOM-32 (含WiFi,BT,BLE)
-![I and My friends]({{site.baseurl}}/assets/img/ArduinoESP WROOM 32.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoESP WROOM 32.jpg){:height="100px" width="200px"}
 
 >Realtek RTL8711AM (含WiFi)
-![I and My friends]({{site.baseurl}}/assets/img/ArduinoRTL8711AM.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoRTL8711AM.jpg){:height="100px" width="200px"}
 
 >Will be continue other ...
 
@@ -56,24 +56,24 @@ tags: [Programming, Learn] # add tag
 
 整合多種試驗後,主要的硬體版本分Raspberry Pi 2 A版(GPIO 20pin)與Raspberry Pi B版(GPIO 40pin)
 >
-![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi2A.jpg)
-![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi2B.jpg)
+![RaspberryPi2A]({{site.baseurl}}/assets/img/RaspberryPi2A.jpg){:height="100px" width="200px"}
+![RaspberryPi2B]({{site.baseurl}}/assets/img/RaspberryPi2B.jpg){:height="100px" width="200px"}
 
 ### 樹梅派 Raspberry Pi 3
 延續Raspberry Pi 2精神,效能再度提升兩個版次Pi 3及Pi 3Plus,要小心的是Pi 3與Pi 3Plus由很大的差異是芯片升級相容性高但周邊芯片更換由原先的只支持WiFi+BLE提升為WiFi+BT+BLE還有提升到可以自行加入POE的應用(網線帶電)
 >
-![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi3B.jpg)
-![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi3B+.jpg)
+![RaspberryPi_Pi3B]({{site.baseurl}}/assets/img/RaspberryPi3B.jpg){:height="100px" width="200px"}
+![RaspberryPi_Pi3B+]({{site.baseurl}}/assets/img/RaspberryPi3B+.jpg){:height="100px" width="200px"}
 
 ### 樹梅派 Raspberry Pi CM module
 最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,已經非常適合工業上的應用及生產
 因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
 >
-![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg)
+![RaspberryPi_CM]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg){:height="100px" width="200px"}
 
 ### Jetson nano module
 官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
 
 迎戰Raspberry Pi的殺手級終端產品應用,模組有AI圖像運算,各大知名方案公司都下海爭取各個終端產業之多樣性應用硬件
 >
-![I and My friends]({{site.baseurl}}/assets/img/JetsonNano_CM_module.jpg)
+![JetsonNano_CM]({{site.baseurl}}/assets/img/JetsonNano_CM_module.jpg){:height="100px" width="200px"}
