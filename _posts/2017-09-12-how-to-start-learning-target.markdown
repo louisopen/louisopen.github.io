@@ -1,9 +1,9 @@
 ---
 layout: post
-title: How To Start Programming Target
+title: How To Start Learning Target
 date: 2019-04-28 10:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: module.jpg # Add image post (optional)
+img: Module.jpg  # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
 硬件平台1: Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
