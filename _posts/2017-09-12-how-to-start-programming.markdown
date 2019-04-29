@@ -31,7 +31,7 @@ tags: [Programming, Learn] # add tag
 
 版本Arduino Mega
 >多列GPIO長方形尺寸,一般多為GPIO應用不足而選用,透過USB type-B與電腦對接
-![ArduinoMega-w200]({{site.baseurl}}/assets/img/ArduinoMega.jpg)
+![ArduinoMega]({{site.baseurl}}/assets/img/ArduinoMega.jpg =100x20)
 
 
 ### 複刻版硬件Arduino
