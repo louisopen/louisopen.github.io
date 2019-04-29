@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Start Programming
-date: 2019-04-28 08:00:00 +0800
+date: 2019-04-28 10:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: bridge1025x726.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
@@ -27,11 +27,11 @@ tags: [Programming, Learn] # add tag
 
 版本Arduino Uno
 >雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
-![I and My friends]({{site.baseurl}}/assets/img/ArduinoUno.jpg){:height="50%" width="50%"}
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoUno.jpg?imageView/2/w/619/q/90)
 
 版本Arduino Mega
 >多列GPIO長方形尺寸,一般多為GPIO應用不足而選用,透過USB type-B與電腦對接
-![I and My friends]({{site.baseurl}}/assets/img/ArduinoMega.jpg)
+![I and My friends-w100]({{site.baseurl}}/assets/img/ArduinoMega.jpg)
 
 
 ### 複刻版硬件Arduino
