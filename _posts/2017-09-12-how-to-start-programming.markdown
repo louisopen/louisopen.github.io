@@ -14,15 +14,16 @@ tags: [Programming, Learn] # add tag
 
 ### 原創硬件Arduino
 版本Arduino Nano
->原創雙排GPIO的最小硬件模板(近似一顆DIP芯片排列), 使用micro USB與電腦對接
+>原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoNano.jpg)
 
 版本Arduino Uno
->雙列GPIO手掌大小,應用最廣的硬件版本幾乎是Arduino代表, 教學性質或入門學習使用, 透過USB type-B與電腦對接
+>雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoUno.jpg)
 
-版本Arduino Meaga
->雙列GPIO長方形尺寸, 一般多為GPIO應用不足而選用
-
-![I and My friends]({{site.baseurl}}/assets/img/we-in-rest.jpg)
+版本Arduino Mega
+>多列GPIO長方形尺寸,一般多為GPIO應用不足而選用,透過USB type-B與電腦對接
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoMega.jpg)
 
 
 ### 複刻版硬件Arduino
@@ -32,7 +33,12 @@ tags: [Programming, Learn] # add tag
 ### 專業芯片原創硬件Arduino
 主要芯片以完全不一樣, 硬件介面不一, 軟件介面可以同時用Arduino IDE與專業芯片廠家提供等數種不同開發環境IDE, 使用原創之Arduino IDE幾乎是通過載入硬件連接介面驅動完成模擬
 >MediaTek MT7697 (含WiFi,BT)
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoMT7697.jpg)
+
 >Espressif ESP-WROOM-32 (含WiFi,BT,BLE)
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoESP WROOM 32.jpg)
+
 >Realtek RTL8711AM (含WiFi)
+![I and My friends]({{site.baseurl}}/assets/img/ArduinoRTL8711AM.jpg)
 
 
