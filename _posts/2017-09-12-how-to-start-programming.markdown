@@ -6,11 +6,11 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: bridge1025x726.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
-硬件平台1: Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台
+硬件平台1: Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
 
-硬件平台2: Raspberry Pi 市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持
+硬件平台2: Raspberry Pi 市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持.
 
-硬件平台3: Jetson Nano 市售硬件平台正值芯發售,也是硬件發行的第一版.  
+硬件平台3: Jetson Nano 市售硬件平台正值芯發售,也是硬件發行的第一版,各個產業的終端應用場景看來已經在各家芯片方案廠商的努力下都已經備好了AIOT的硬件.
 
 ### 原創硬件Arduino
 版本Arduino Nano
@@ -57,3 +57,7 @@ tags: [Programming, Learn] # add tag
 最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,已經非常適合工業上的應用及生產
 因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
 ![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg)
+
+### Jetson nano module
+迎戰Raspberry Pi的殺手級終端產品應用,模組有AI圖像運算,各大知名方案公司都下海爭取各個終端產業之多樣性應用硬件
+![I and My friends]({{site.baseurl}}/assets/img/JetsonNano_CM_module.jpg)
