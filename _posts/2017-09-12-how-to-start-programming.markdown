@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Start Programming
-date: 2019-04-28 080:00:00 +0800
+date: 2019-04-28 08:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: bridge1025x726.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
