@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Start Programming
-date: 2017-09-12 00:00:00 +0300
+date: 2019-04-28 00:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: bridge1025x726.png # Add image post (optional)
 tags: [Programming, Learn] # add tag
@@ -56,4 +56,4 @@ tags: [Programming, Learn] # add tag
 ### 樹梅派 Raspberry Pi CM module
 最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,已經非常適合工業上的應用及生產
 因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
-![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi CM module.jpg)
+![I and My friends]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg)
