@@ -8,13 +8,13 @@ tags: [Programming, Learn] # add tag
 ---
 當你開始學習如何編寫程式時一定會問自己幾個問題,如:編寫純軟體(軟件)還是帶有芯片IC的軟體(又稱韌體或稱Firmware)? 職業生涯上當然是愈廣愈好,但困難度也相對一定高,但如果有適當方法及途徑,再經過名師點化,相信水到可以渠成,所以我們就用簡單的幾個硬件平台,既可以容易取得範例也可以有廣大的知識面向開始吧
 #### 硬件平台: Arduino
-* Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
+* 非常適合初學者的Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
 * 官網: [Arduino](https://www.arduino.cc/)
 #### 硬件平台: Raspberry Pi
-* Raspberry Pi 市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持.
+* 有興趣再進一步了解物聯網OS平台者,這是一個非常好的環境Raspberry Pi(樹莓派)市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持.
 * 官網: [RaspberryPi](https://www.raspberrypi.com.tw/)
 #### 硬件平台: Jetson Nano 
-* 市售硬件平台正值芯發售,也是硬件發行的第一版,各個產業的終端應用場景看來已經在各家芯片方案廠商的努力下都已經備好了AIOT的硬件.
+* 市售硬件平台正值新一代芯片發售,也是Jetson nano 2019發行的第一版硬件,各個產業的終端應用場景看來,各家芯片廠已經在方案上都有著墨已經備好了AIOT的硬件.
 * 官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
 
 ### 原創硬件Arduino
