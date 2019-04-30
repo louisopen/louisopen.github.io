@@ -6,6 +6,8 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: Module.jpg  # Add image post (optional)
 tags: [Programming, Learn] # add tag
 ---
+當你開始學習如何編寫程式時一定會問自己幾個問題,如:編寫純軟體(軟件)還是帶有芯片IC的軟體(又稱韌體或稱Firmware)? 職業生涯上當然是愈廣愈好,但困難度也相對一定高,但如果有適當方法及途徑,再經過名師點化,相信水到可以渠成,所以我們就用簡單的幾個硬件平台,既可以容易取得範例也可以有廣大的知識面向開始吧
+
 硬件平台1: Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
 
 官網: [Arduino](https://www.arduino.cc/)
