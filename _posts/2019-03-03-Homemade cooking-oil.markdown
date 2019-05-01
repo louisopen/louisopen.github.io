@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Homemade食用油
+title: 健康用油
 date: 2019-03-03 10:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: oil.jpg # Add image post (optional)
@@ -10,3 +10,4 @@ tags: [Js, Conference] # add tag
 
 筆者曾經思索自行製油的可行性,同時積極的尋找了很久的油品自行壓榨方法,壓榨設備...但因為體積龐大,容量過大,運輸不適合...不適合一般家庭家族使用,在一日工作因緣認識到一部小型設備的簡易榨油裝置於是又再度燃起了食用油品自製的概念,就這樣的買下一部低溫榨油機開始了榨油的興趣...
 
+健康用油即是自己榨油,苦茶油,火麻油,亞麻仁籽油,甜杏仁油,南瓜籽油,
