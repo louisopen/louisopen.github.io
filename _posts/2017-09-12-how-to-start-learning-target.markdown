@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Start Learning Target
+title: How To Start Target Board
 date: 2019-04-28 10:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: Module.jpg  # Add image post (optional)
