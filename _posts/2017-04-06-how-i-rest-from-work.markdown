@@ -9,6 +9,8 @@ tags: [Holidays, Hawaii]
 ---
 一日終於登上了朝思暮想的行程-黃山
 * ![HuangSan.jpg]({{site.baseurl}}/assets/img/HuangSan.jpg){:height="200px" width="300px"}
+![HuangLong.jpg]({{site.baseurl}}/assets/img/HuangLong.jpg){:height="200px" width="300px"}
+![GuoXaiGo.jpg]({{site.baseurl}}/assets/img/GuoXaiGo.jpg){:height="200px" width="300px"}
 
 一日終於登上了朝思暮想的行程-黃龍
 * ![HuangLong.jpg]({{site.baseurl}}/assets/img/HuangLong.jpg){:height="200px" width="300px"}
