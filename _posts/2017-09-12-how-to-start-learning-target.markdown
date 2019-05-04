@@ -4,7 +4,7 @@ title: How To Start Target Board
 date: 2019-04-28 10:00:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: Module.jpg  # Add image post (optional)
-tags: [Programming, Learn] # add tag
+tags: [Programming, Learn, Arduino, Raspberry Pi, Jetson Nano] # add tag
 ---
 當你開始學習如何編寫程式時一定會問自己幾個問題,如:編寫純軟體(軟件)還是帶有芯片IC的軟體(又稱韌體或稱Firmware)? 職業生涯上當然是愈廣愈好,但困難度也相對一定高,但如果有適當方法及途徑,再經過名師點化,相信水到可以渠成,所以我們就用簡單的幾個硬件平台,既可以容易取得範例也可以有廣大的知識面向開始吧
 
