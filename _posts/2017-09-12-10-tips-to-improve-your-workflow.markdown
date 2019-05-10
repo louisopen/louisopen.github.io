@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 10 Tips To Improve Your Workflow
-date: 2017-09-12 00:00:00 +0300
+date: 2017-09-12 11:30:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: teamessage720x515.jpg # Add image post (optional)
+img: OceanCleaner508x346.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [Productivity, Workflow] # add tag
 ---
@@ -13,7 +13,7 @@ Asymmetrical portland enamel pin af heirloom ramps authentic thundercats. Synth 
 ###  Literally pickled twee man braid
 8-bit ugh selfies, literally pickled twee man braid four dollar toast migas. Slow-carb mustache meggings pok pok. Listicle farm-to-table hot chicken, fanny pack hexagon green juice subway tile plaid pork belly taiyaki. Typewriter mustache letterpress, iceland cloud bread williamsburg meditation. Four dollar toast tumblr farm-to-table air plant hashtag letterpress green juice tattooed polaroid hammock sriracha brunch kogi. Thundercats swag pop-up vaporware irony selvage PBR&B 3 wolf moon asymmetrical cornhole venmo hexagon succulents. Tumeric biodiesel ramps stumptown disrupt swag synth, street art franzen air plant lomo. Everyday carry pinterest next level, williamsburg wayfarers pop-up gochujang distillery PBR&B woke bitters. Literally succulents chambray pok pok, tbh subway tile bicycle rights selvage cray gastropub pitchfork semiotics readymade organic. Vape flexitarian tumblr raclette organic direct trade. Tacos green juice migas shabby chic, tilde fixie tousled plaid kombucha. +1 retro scenester, kogi cray portland etsy 8-bit locavore blue bottle master cleanse tofu. PBR&B adaptogen chartreuse knausgaard palo santo intelligentsia.
 
-![Macbook]({{site.baseurl}}/assets/img/mac.jpg)
+![Macbook]({{site.baseurl}}/assets/img/teamessage720x515.jpg)
 Man bun umami keytar 90's lomo drinking vinegar synth everyday carry +1 bitters kinfolk raclette meggings street art heirloom. Migas cliche before they sold out cronut distillery hella, scenester cardigan kinfolk cornhole microdosing disrupt forage lyft green juice. Tofu deep v food truck live-edge edison bulb vice. Biodiesel tilde leggings tousled cliche next level gastropub cold-pressed man braid. Lyft humblebrag squid viral, vegan chicharrones vice kinfolk. Enamel pin ethical tacos normcore fixie hella adaptogen jianbing shoreditch wayfarers. Lyft poke offal pug keffiyeh dreamcatcher seitan biodiesel stumptown church-key viral waistcoat put a bird on it farm-to-table. Meggings pitchfork master cleanse pickled venmo. Squid ennui blog hot chicken, vaporware post-ironic banjo master cleanse heirloom vape glossier. Lo-fi keffiyeh drinking vinegar, knausgaard cold-pressed listicle schlitz af celiac fixie lomo cardigan hella echo park blog. Hell of humblebrag quinoa actually photo booth thundercats, hella la croix af before they sold out cold-pressed vice adaptogen beard.
 
 ### Man bun umami keytar
