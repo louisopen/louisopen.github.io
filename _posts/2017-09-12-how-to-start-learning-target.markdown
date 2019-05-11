@@ -6,6 +6,7 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: Boards.jpg  # Add image post (optional)
 tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS, Google GAE, Thingspeak, Exosite, 智慧聯網大平台] # add tag
 ---
+
 ### 平台(Hardware/Cloud)
 當你開始學習如何編寫程式時一定會問自己幾個問題,如:編寫純軟體(軟件)還是帶有芯片IC的軟體(又稱韌體或稱Firmware)? 職業生涯上當然是愈廣愈好,但困難度也相對一定高,但如果有適當方法及途徑,再經過名師點化,相信水到可以渠成,所以我們就用市場上幾個相對簡單又可以容易購買的硬件平台,在市場上容易取得又不是很貴的價格,既可以容易取得範例也有相對的可靠性,就從這個面向持續擴大自己的知識面向開始吧!
 
