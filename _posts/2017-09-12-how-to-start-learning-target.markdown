@@ -12,32 +12,32 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 
 另外一個是非硬件的平台,指的就是大型的雲端系統平台提供者Microsoft Azure, Amazone AWS, Google GAE..., 這些產也衍生雲端應用平台產業如ThingSpeak, Exosite, 中華電信智慧聯網大平台...
 
-#### 硬件平台: Arduino
+### 硬件平台: Arduino
 * 非常適合初學者的Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
 * 官網: [Arduino](https://www.arduino.cc/)
 
-#### 硬件平台: Raspberry Pi
+### 硬件平台: Raspberry Pi
 * 有興趣再進一步了解物聯網OS平台者,這是一個非常好的環境Raspberry Pi(樹莓派)市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持.
 * 官網: [RaspberryPi](https://www.raspberrypi.com.tw/)
 
-#### 硬件平台: Jetson Nano 
+### 硬件平台: Jetson Nano 
 * 市售硬件平台正值新一代芯片發售,也是Jetson nano 2019發行的第一版硬件,各個產業的終端應用場景看來,各家芯片廠已經在方案上都有著墨已經備好了AIOT的硬件.
 * 官網: [Jetson-nano](https://www.nvidia.com/zh-tw/autonomous-machines/embedded-systems/jetson-nano/)
 
-### 原創硬件Arduino
+#### 原創硬件Arduino
 官網: [Arduino](https://www.arduino.cc/)
 
-版本Arduino Nano
->原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
-![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="40px" width="100px"}
+##### 原創版本Arduino Nano
+原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
+>![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="40px" width="100px"}
 
-版本Arduino Uno
->雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
-![ArduinoUno]({{site.baseurl}}/assets/img/ArduinoUno.jpg){:height="150px" width="200px"}
+##### 原創版本Arduino Uno
+雙列GPIO(28pin)手掌大小,應用最廣的硬件版本幾乎是Arduino代表,教學性質或入門學習使用,透過USB type-B與電腦對接
+>![ArduinoUno]({{site.baseurl}}/assets/img/ArduinoUno.jpg){:height="150px" width="200px"}
 
-版本Arduino Mega
->多列GPIO長方形尺寸,一般多為GPIO應用不足而選用,透過USB type-B與電腦對接
-![ArduinoMega]({{site.baseurl}}/assets/img/ArduinoMega.jpg){:height="150px" width="280px"}
+##### 原創版本Arduino Mega
+多列GPIO長方形尺寸,一般多為GPIO應用不足而選用,透過USB type-B與電腦對接
+>![ArduinoMega]({{site.baseurl}}/assets/img/ArduinoMega.jpg){:height="150px" width="280px"}
 
 
 ### 複刻版硬件Arduino
