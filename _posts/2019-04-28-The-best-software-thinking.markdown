@@ -3,7 +3,7 @@ layout: post
 title: The Best Software Thinking
 date: 2019-04-28 11:30:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: bridge1024x607.jpg   # Add image post (optional)
+img: bridge920x545.jpg   # Add image post (optional)
 tags: [Arduino, Raspberry Pi, RaspBian, Windows iot] # add tag
 ---
 軟體,軟件,韌體,固件,方塊語言,組合語言,匯編語言.
