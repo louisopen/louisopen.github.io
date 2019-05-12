@@ -8,6 +8,8 @@ fig-caption: # Add figcaption (optional)
 tags: [黃山, 黃龍, 九寨溝, 張家界]
 ---
 
+匆匆短暫的休息室很重要的
+
 #### 終於登上睽違已久的行程-黃山
 > 人生必走行程
 * ![HuangSan.jpg]({{site.baseurl}}/assets/img/HuangSan.jpg){:height="200px" width="350px"}
