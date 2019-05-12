@@ -12,9 +12,11 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 
 另外一個是非硬件的平台,指的就是大型的雲端系統平台提供者Microsoft Azure, Amazone AWS, Google GAE..., 這些產也衍生雲端應用平台產業如ThingSpeak, Exosite, 中華電信智慧聯網大平台...
 
+
 #### Arduino硬件平台: 
 * 非常適合初學者的Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
 * 官網: [Arduino](https://www.arduino.cc/)
+
 #### Arduino原創硬件版本
 ##### 原創版本Arduino Nano: 原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
 >![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="40px" width="100px"}
@@ -43,11 +45,12 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 >Will be continue other ...
 
 
+
 ### Raspberry Pi硬件平台: 
 * 有興趣再進一步了解物聯網OS平台者,這是一個非常好的環境Raspberry Pi(樹莓派)市售硬件平台約可分為三大版本三大類型 A.Raspberry Pi2 B.Raspberry Pi3 C.Raspberry Pi Computer Module, 硬件版本很多種, 值得介紹的是 Raspberry Pi3 Pi3+ CM3 CM3+ ,Raspberry Pi目前不僅在Linux支持,同時也被Windows支持, 此外也有其他軟件系統支持.
 * 官網: [RaspberryPi](https://www.raspberrypi.com.tw/)
-#### Raspberry Pi 2樹莓派版本
 
+#### Raspberry Pi 2樹莓派版本
 整合多種試驗後,主要的硬體版本分Raspberry Pi 2 A版(GPIO 20pin)與Raspberry Pi B版(GPIO 40pin)
 >
 ![RaspberryPi2A]({{site.baseurl}}/assets/img/RaspberryPi2A.jpg){:height="130px" width="200px"}
@@ -63,7 +66,6 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 最大的色在於已經將記憶體內置於模組內分為8G,16G,32G版本,當然還是有保留外接SD card的型號,這樣的考慮應該足夠應付市場需求,更別說創客市場了,也非常適合工業上的應用及生產,因為無其他周邊裝置,網路及額外的USB裝置等都需要另外設計,但已經簡化相當多的設計驗證等問題
 >
 ![RaspberryPi_CM]({{site.baseurl}}/assets/img/RaspberryPi_CM_module.jpg){:height="150px" width="300px"}
-
 
 
 
