@@ -86,5 +86,5 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 ### 仿Raspberry Pi不同風格的硬件平台: 
 * 市售硬件標準平台在中國也一片看好,號稱多達12種的標準硬件平台,實在太多了!但有一點不變的是大多數的OS平台語言是共用的,連微軟(Microsoft)都來卡一腳,即將推出Windows 10 Lite 或 Windows 10 IOT core來加入開發者的這個市場,會愈來愈熱鬧的.
 * 介紹: [多達12款的硬件平台](https://linux.cn/article-10823-1.html)
-
+>
 
