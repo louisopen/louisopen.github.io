@@ -3,7 +3,7 @@ layout: post
 title: How To Start Target Board
 date: 2019-04-28 11:30:00 +0800
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: Boards.jpg {:height="150px" width="300px"}  # Add image post (optional)
+img: Boards.jpg{:height="150px" width="300px"}  # Add image post (optional)
 tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS, Google GAE, Thingspeak, Exosite, 智慧聯網大平台] # add tag
 ---
 
