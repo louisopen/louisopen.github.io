@@ -13,15 +13,15 @@ tags: [Productivity, Workflow] # add tag
 ###  造型
 Cute.
 >
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_bar.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_88.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_89.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_91.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_92.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_93.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_94.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_95.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_96.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_97.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_98.jpg)
-![Soap_]({{site.baseurl}}/assets/img/soap/Soap_99.jpg)
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_bar.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_88.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_89.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_91.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_92.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_93.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_94.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_95.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_96.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_97.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_98.jpg){:height="200px" width="250px"}
+![Soap_]({{site.baseurl}}/assets/img/soap/Soap_99.jpg){:height="200px" width="250px"}
