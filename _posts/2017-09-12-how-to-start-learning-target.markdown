@@ -9,10 +9,11 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 
 編程到底如何開始?
 
-### 平台(Hardware/Cloud)
+### 平台(Hardware/Cloud) 你的志向
 當你開始學習如何編寫程式時一定會問自己幾個問題,如:編寫純軟體(軟件)還是帶有芯片IC的軟體(又稱韌體或稱Firmware)? 職業生涯上當然是愈廣愈好,但困難度也相對一定高,但如果有適當方法及途徑,再經過名師點化,相信水到可以渠成,所以我們就用市場上幾個相對簡單又可以容易購買的硬件平台,在市場上容易取得又不是很貴的價格,既可以容易取得範例也有相對的可靠性,就從這個面向持續擴大自己的知識面向開始吧!
 
-另外一個是非硬件的平台,指的就是大型的雲端系統平台提供者Microsoft Azure, Amazone AWS, Google GAE..., 這些產也衍生雲端應用平台產業如ThingSpeak, Exosite, 中華電信智慧聯網大平台...
+另外一個是非硬件的平台,指的就是大型的雲端系統平台提供者Microsoft Azure, Amazone AWS, Google GAE..., 這些產也衍生雲端應用平台產業如ThingSpeak, Exosite, 中華電信智慧聯網大平台...這方面的產業面非常廣,知識及經驗要不斷增長才能應付人文科學的快速變化及需求
+
 
 
 #### Arduino硬件平台: 
@@ -79,3 +80,9 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 迎戰Raspberry Pi的殺手級終端產品應用,模組有AI圖像運算,各大知名方案公司都下海爭取各個終端產業之多樣性應用硬件,主要針對創客市場.
 >
 ![JetsonNano_CM]({{site.baseurl}}/assets/img/JetsonNano_CM_module.jpg){:height="130px" width="200px"}
+
+
+
+### 仿Raspberry Pi不同風格的硬件平台: 
+* 市售硬件標準平台在中國也一片看好,號稱多達12種的標準硬件平台,實在太多了!但有一點不變的是大多數的OS平台語言是共用的,連微軟(Microsoft)都來卡一腳,即將推出Windows 10 Lite 或 Windows 10 IOT core來加入開發者的這個市場,會愈來愈熱鬧的.
+* 介紹: [硬件平台](https://linux.cn/article-10823-1.html)
