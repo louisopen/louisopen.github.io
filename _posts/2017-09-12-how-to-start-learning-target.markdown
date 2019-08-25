@@ -11,6 +11,7 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 
 
 ### 平台(Hardware/Cloud) 你的志向
+想過把編程當成畢生的職業或面對人生的一種技能嗎?
 當你開始學習如何編寫程式時一定會問自己幾個問題,如:編寫純軟體(軟件)還是帶有芯片IC的軟體(又稱韌體或稱Firmware)? 職業生涯上當然是愈廣愈好,但困難度也相對一定高,但如果有適當方法及途徑,再經過名師點化,相信水到可以渠成,所以我們就用市場上幾個相對簡單又可以容易購買的硬件平台,在市場上容易取得又不是很貴的價格,既可以容易取得範例也有相對的可靠性,就從這個面向持續擴大自己的知識面向開始吧!
 
 另外一個是非硬件的平台,指的就是大型的雲端系統平台提供者Microsoft Azure, Amazon AWS, Google GAE..., 這些產也衍生雲端應用平台產業如ThingSpeak, Exosite, 中華電信智慧聯網大平台...這方面的產業面非常廣,知識及經驗要不斷增長才能應付人文科學的快速變化及需求
@@ -18,10 +19,11 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 
 
 #### Arduino硬件平台: 
-* 非常適合初學者的Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專業芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
+* 非常適合初學者的Arduino 市售硬件平台約可分為三大類型 A.原創硬件設計Arduino B.複刻版硬件設計Arduino C.專用芯片原廠硬件設計,除了Arduino標準介面並含進階特色介面. 三大類型的硬件特色是都可以使用原創公司的Arduino IDE開發平台.
 * 官網: [Arduino](https://www.arduino.cc/)
 
 #### Arduino原創硬件版本
+Arduino原創的硬件版本就非常多了如Arduino Mega,UNO,Nano,Pro mini...這些是學習過程中最常利用的硬件版本, 除了學習還可以直接做成產品或直接利用其控制想要的目的, 非常方便, 甚至直接利用做小量生產都可以的, 若是大量生產則有更多的選擇
 ##### 原創版本Arduino Nano: 原創雙排GPIO(15pin x2)的最小硬件模板(近似一顆DIP芯片排列),使用mini USB接口與電腦對接
 >![ArduinoNano]({{site.baseurl}}/assets/img/ArduinoNano.jpg){:height="40px" width="100px"}
 
@@ -33,10 +35,10 @@ tags: [Programming, AI Learnning, Arduino, Raspberry Pi, Jetson Nano, Azure, AWS
 
 #### 複刻版硬件Arduino
 主要芯片還是一樣但USB介面只有模擬及下載,另外附加的串口Serial port功能. 其他幾乎是共通的.
->與原創主要差異為不能進行HID通訊模擬, 範例使用上要注意與HID相關的應用
+>與原創主要差異是不能進行HID通訊模擬, 範例使用上要注意與HID相關的應用案例是無法實現的
 
-#### 專業芯片原創硬件Arduino
-主要芯片以完全不一樣, 硬件介面不一, 軟件介面可以同時用Arduino IDE與專業芯片廠家提供等數種不同開發環境IDE, 使用原創之Arduino IDE幾乎是通過載入硬件連接介面驅動完成模擬
+#### 專用芯片原創硬件Arduino
+主要芯片(原Arduino採用Atmel ATmega328)變更成完全不一樣是由各自專業公司開發出來的專用芯片, 硬件介面不一定完全一樣, 只有軟體介面可以同時共用Arduino IDE與專用芯片廠家提供等數種不同開發環境IDE, 各自專業公司也皆利用原創之Arduino IDE載入專業硬件連接介面驅動完成模擬
 >MediaTek MT7697 (含WiFi,BT)
 ![I and My friends]({{site.baseurl}}/assets/img/ArduinoMT7697.jpg){:height="130px" width="200px"}
 
