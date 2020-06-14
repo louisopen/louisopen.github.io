@@ -24,6 +24,7 @@ tags: [Arduino, Raspberry Pi, RaspBian, Windows iot] # add tag
 * C
 * Python
 * C#
+* C++
 * Windows 10 UWP
 
 軟體編程(Arduino,Raspberry Pi)
